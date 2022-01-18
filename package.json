@@ -1,0 +1,25 @@
+{
+  "name": "simplesmente-futebol",
+  "version": "1.0.0",
+  "description": "Esse é um projeto de blog para o \"Simplesmente Futebol\", cujo o canal do youtube é: \"https://www.youtube.com/channel/UCYUBmkx-_vJ98rAlynLvj1A/videos\".",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andre-rochal/simplesmente-futebol.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andre-rochal/simplesmente-futebol/issues"
+  },
+  "homepage": "https://github.com/andre-rochal/simplesmente-futebol#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
